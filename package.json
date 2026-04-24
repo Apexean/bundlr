@@ -2,14 +2,14 @@
   "name": "bundlr",
   "version": "1.0.0",
   "description": "A app manager based on FlatHub for all OSes",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron ."
   },
   "keywords": [],
   "author": "Apexean",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "electron": "^41.3.0",
     "electron-packager": "^17.1.2"
